@@ -1,3 +1,5 @@
+credit : App made with the help of "from scratch" youtube channel
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
